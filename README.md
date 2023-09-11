@@ -14,8 +14,8 @@
 - 🌐 Full-stack development with the <img src="https://user-images.githubusercontent.com/54678035/219395636-a94a18b2-3dcf-41ea-8516-5f44b1a524eb.svg" width="20"/><img src="https://user-images.githubusercontent.com/54678035/219257515-f7115cc7-d2f6-4f37-8471-72f4bb4a6574.svg" width="20"/> <img src="https://user-images.githubusercontent.com/54678035/219395885-fd86087d-e9bc-451a-bc8d-fa64d3ad64a9.svg" width="20"/> **MERN** tech stack.
 - ☁ Created multi-cloud serverless applications on <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="20"/> and  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" width="40"/>.
 - Other Tools and Tech:
-
-<img src = "https://github.com/muskanvazirani/muskanvazirani/assets/38426217/41b77929-eb4d-41ad-a9a7-d2f29254143b" width = "45" height ="45"/>
+  
+<img src= "https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" width="45" height="45"/> <img src = "https://github.com/muskanvazirani/muskanvazirani/assets/38426217/41b77929-eb4d-41ad-a9a7-d2f29254143b" width = "45" height ="45"/>
 <img src = "https://github.com/muskanvazirani/muskanvazirani/assets/38426217/f6b8f6b6-9cb3-4c88-8222-cd164814e74e" width = "45" height ="45"/>
 <img src = "https://github.com/muskanvazirani/muskanvazirani/assets/38426217/e04b07c1-f38d-4ce9-aa3e-184d65e1402a" width = "45" height ="45"/>
 <img src = "https://github.com/muskanvazirani/muskanvazirani/assets/38426217/47875564-be5f-4f4f-ad19-343e8fe812d6" width = "45" height ="45"/>

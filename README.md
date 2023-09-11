@@ -1,4 +1,4 @@
-### Hi there!👋 I'm Muskan Vazirani.
+### Hi there!👋 I'm Muskan.
 🍵 **BRB, brewing myself a cup of coffee...** 
 
 
@@ -42,6 +42,39 @@
 - 🏢 <img src="https://github.com/muskanvazirani/muskanvazirani/assets/38426217/85e070a4-47c6-4fef-82cd-a4fb98bae813" width="60" height="25"/> Solutions Pvt. Ltd. (Nov 2021 – July 2022) 
   - Transitioned from <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" width="35" height="35"/> to <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" width="45" height="25"/> Security and GRC.
   - Worked in a horizontal service team for a valued client of 25 years.
+# 🚀 Projects Portfolio
+
+### 1. 🌪️ NS Power Recovery Planner
+- **Duration**: Oct 2022 - Dec 2022
+- **Tech Stack**: Java, Mysql
+- 📋 **Highlights**: 
+  - Utility recovery post-Hurricane Fiona.
+  - Modular design with SOLID principles.
+  - Optimized restoration timelines through advanced algorithms.
+
+### 2. 🏠 FindMyHome: Roommate Matching
+- **Duration**: Jan 2023 - April 2023
+- **Tech Stack**: Spring Boot, Java, Mysql, React.js
+- 📋 **Highlights**: 
+  - Jaccard index for tailored roommate recommendations.
+  - Frontend in React.js, with JWT-secured authentication.
+  - CI/CD pipeline for continuous updates.
+
+### 3. 🛍️ Urban Canada: Service Marketplace
+- **Duration**: May 2023 - July 2023
+- **Tech Stack**: React.js, Node.js, Express.js, MongoDB
+- 📋 **Highlights**: 
+  - Connects vendors and consumers with intuitive UI.
+  - MERN stack application with seamless navigation.
+  - Deployed on Render (backend) & Netlify (frontend).
+
+### 4. 🎲 Trivia Titan: Multi-Cloud Serverless Trivia
+- **Duration**: May 2023 - July 2023
+- **Tech Stack**: AWS, GCP, Serverless Framework
+- 📋 **Highlights**: 
+  - Microservices architecture spanning AWS and GCP.
+  - Dockerized frontend on GCP's Cloud Run.
+  - Rich gameplay with Node.js, React.js, AWS, and GCP services.
 
 ### 📌 Values:
 

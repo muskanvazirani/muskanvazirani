@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on creating cloud architecture for an app!
 - 🌱 I’m diving deeper into Cloud Architecture, Angular, Serverless, and Full Stack development.
 - 🤔 I’m looking for Winter 2024 co-op opportunities.
-- 📫 Easily approachable at: [muskan@dal.ca](mailto:muskan@dal.ca) || <a href="https://www.linkedin.com/in/muskan-vazirani/"><img height="35" width="35" src="https://user-images.githubusercontent.com/54678035/218378109-021c4e4c-cea6-49bd-9c2b-8bbb7b94f7cd.png"/></a>
+- 📫 Easily approachable at: [muskan@dal.ca](mailto:muskan@dal.ca) || <a href="https://www.linkedin.com/in/muskan-vazirani/"><img height="25" width="35" src="https://user-images.githubusercontent.com/54678035/218378109-021c4e4c-cea6-49bd-9c2b-8bbb7b94f7cd.png"/></a>
 - 😄 Pronouns: She/her
 
 ### ⚡ Technologies & Tools:

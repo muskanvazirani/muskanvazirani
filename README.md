@@ -34,8 +34,8 @@
 ### 🎓 Education:
 
 - 🌍 Studying Master of Applied Computer Science at <img src="https://github.com/muskanvazirani/muskanvazirani/assets/38426217/245c8019-74b9-47b1-b759-560a595083f7" width="60" height="35"/>
-
 - 💻 Studied at LDRP Institute of Technology and Research in India.
+- 🌱 Formative years of learning: St. Xavier High School, Ahmedabad, India.
 
 ### 💼 Experience:
 
